@@ -9,6 +9,7 @@ public class Hoten {
         String hoTen = sc.nextLine();
 
         System.out.println("Ho ten cua ban la: " + hoTen);
+        System.out.println("Phien ban moi: " + hoTen);
 
         sc.close();
     }
